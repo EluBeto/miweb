@@ -6,3 +6,6 @@ git commit -m "comment"
 git rm <file> --> Eliminar archivo
 git mv <file> --> Renombrar archivo
 git diff
+git diff --staged
+git log
+git log --oneline
