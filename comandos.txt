@@ -1,3 +1,7 @@
 git config --global core.editor "code -w"
+git status
+git status -s
+git add <file>
+git commit -m "comment"
 git rm <file> --> Eliminar archivo
 git mv <file> --> Renombrar archivo
