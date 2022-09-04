@@ -1,1 +1,3 @@
-ELUbeto
+git config --global core.editor "code -w"
+git rm <file> --> Eliminar archivo
+git mv <file> --> Renombrar archivo
